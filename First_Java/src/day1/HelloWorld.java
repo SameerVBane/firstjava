@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("test2 Edited in git HUB");
 		System.out.println("Jenkins");
 		System.out.println("Jenkins trial");
+		System.out.println("Jenkins trial--GitHub Hook bild trigger");
 	}
 	
 }
