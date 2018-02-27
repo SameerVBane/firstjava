@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Hello world !!");
 		System.out.println("Edited in text editor of GitHub");
 		System.out.println("Created local branch1");
+		System.out.println("Created local branch3");
+		System.out.println("Created local branch4");
 	}
 	
 }
