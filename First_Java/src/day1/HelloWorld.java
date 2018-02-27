@@ -6,11 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world !!");
-		System.out.println("test1");
-		System.out.println("test2 Edited in git HUB");
-		System.out.println("Jenkins");
-		System.out.println("Jenkins trial");
-		System.out.println("Jenkins trial--GitHub Hook bild trigger");
+		
 	}
 	
 }
