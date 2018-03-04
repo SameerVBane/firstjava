@@ -12,7 +12,7 @@ public class HelloWorld {
 		System.out.println("Created local branch4");
 		System.out.println("commit to check jenkins job1");
 		System.out.println("commit to check jenkins job2");
-		System.out.println("commit to check jenkins job3");
+		
 	}
 	
 }
