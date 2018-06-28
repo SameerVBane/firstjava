@@ -1,0 +1,26 @@
+		Types of classes-- General concepts not actual types
+1. Normal Class  -- Concreate class
+2. Abstract class -- Object can not created
+3. Parent Class -- Providing properties
+4. Child Class -- Acquiring properties
+5. Java Bean --  Private properties --- Getter and Setters  -Reusable component
+6. Adapter class - Empty implementation of Interface methods
+7. Public Class -- class name and Source file name must be same.   Can be access in all packages.
+8. Default class-- access within the package
+9. Tightly encapsulated class -- Class contains private properties
+10. Implementation class  -- Implementing Interface methods
+11. Final class -- Can not extend this class
+12. Immutable classes -- Once object is created of this class we can not modify the existing objects
+13. Mutable classes -- Once object is created of this class we can modify the existing objects
+14 Strict FP classes -- Floating point calculation will follow IEEE 754 standards
+15 Singleton class -- Allows only one object to be created.
+
+		Modifiers
+	Default    
+	-- in java default modifier is default 
+	-- Applicable for variables, classes, constructors, methods
+	-- Access within the package
+	Public
+	--
+	Protected
+	Private
